@@ -1,0 +1,22 @@
+
+button::before {
+  padding: 0%;
+  content: "Pasa por encima";
+  }
+  
+  button:hover {
+  color: white;
+  background-color: rgb(28, 204, 28);
+  }
+  
+  button:active::before {
+  content: "¡Hecho!";
+  
+  }
+  
+  
+  
+  
+  
+  
+  
